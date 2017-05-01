@@ -1,6 +1,5 @@
 # java-gui
-AWT, Swing, JavaFX (spotlight)
-#AWT
+AWT
 <p>FirstAWTProgram - реагирует на мышь и клавиатуру</p>
 <p>DrawShapes - рисование простых фигур</p>
 <p>ResizingShapes - изменение размеров фигур в зависимости от размера окна</p>
